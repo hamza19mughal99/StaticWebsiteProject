@@ -1,0 +1,205 @@
+
+.logo{
+    width: 100px !important;
+    height: 100px !important;
+    margin-left: 30px !important;
+}
+.logoname{
+    margin-left: 20px !important;
+}
+.back{
+    background-color: rgb(116, 185, 241);
+    font-family: 1em sans-serif;
+    padding-top: 20px !important;
+    
+}
+
+.back1{
+    font-family: 1em sans-serif;
+    font-weight: bold;
+    padding-top: 10px !important;
+}
+.back2{
+    font-family: serif;
+   
+}
+
+.navlink1{
+    margin-left: 30px !important;
+    color: rgb(255, 255, 255);
+}
+
+.navlink1:hover{
+    color: rgb(127, 47, 141);
+    background-color: rgb(116, 185, 241);
+    border-radius: 6px !important;
+}
+
+.guideheading{
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    margin-left: 10px !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.nu{
+    padding-top: 0px !important;
+    font-size: 17px !important;
+}
+.fa{
+    font-size: 70px !important;
+}
+.fap{
+ font-size: 20px !important;
+}
+
+.fap1{
+    font-size: 20px !important;
+    padding-left: 20px !important;
+}
+
+.fap2{
+    font-size: 20px !important;
+    padding-left: 10px !important;
+}
+.touch{
+    text-align: center;
+    padding-top: 20px !important;
+}
+
+.webmap{
+    display: flex;
+    justify-content: space-around;
+    /* margin-left: 200px !important; */
+    flex-wrap: wrap;
+}
+
+.guideheading:hover{
+color: rgb(127, 47, 141);
+
+}
+.mar{
+    color: white;
+    background-color:rgb(127, 47, 141);
+    margin-top: 10px !important;
+}
+.guidepara{
+    background-color: #f2f2f2;
+}
+.img{
+    width:600px !important;
+    height: 400px !important;
+}
+@media only screen and (max-width: 542px) {
+    .img {
+      width: 100% !important;
+    }
+  }
+
+
+.eve{
+    display: flex;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    
+    
+}
+.eve2{
+    padding-top: 30px !important;
+    text-align: justify;
+    background-color: #f2f2f2;
+    border-radius: 6px !important;
+    margin-left: 10px !important;
+}
+.icon{
+    font-size: 60px !important;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px !important;
+    background-color: #f2f2f2;
+    padding: 20px !important;
+
+} 
+
+.back3{
+    font-weight: 900;
+    color: #000;
+    font-family: sans-serif;
+}
+
+.back3:hover{
+    color: rgb(127, 47, 141);
+}
+
+
+.fa:hover{
+    color: rgb(127, 47, 141);
+}
+.under{
+    color: green;
+}
+.fa{
+    padding: 10px !important;
+    margin-top : 20px !important ;
+    color: rgb(116, 185, 241);
+}
+.fa1{
+    padding: 10px !important;
+    margin-top : 20px !important ;
+    color: paleturquoise;
+}
+.fa4{
+    font-size: 30px !important;
+}
+
+.mainfoot{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 20px !important;
+    background-color: #101820FF;
+    color:white;
+}
+
+.paa{
+    padding: 20px !important;
+}
+
+
+.mainfoot1{
+  margin-bottom: 30px !important;
+}
+
+@media only screen and (max-width: 701px) {
+  .mainfoot1 {
+    width: 100% !important;
+  }
+}
+.icon1{
+    font-size: 30px !important;
+    display: flex;
+    justify-content: center;
+} 
+
+@media only screen and (max-width: 992px) {
+    .eve {
+      flex-wrap: wrap !important;
+    }
+  }
+@media only screen and (max-width: 666px) {
+    .vid {
+      width: 100% !important;
+    }
+  }
